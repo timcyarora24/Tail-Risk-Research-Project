@@ -120,7 +120,7 @@ Small, real drawdown reduction on S&P 500; a clear win on treasuries; mixed else
 
 ## Repository structure
 
-
+```
 cassi-tail-risk/
 ├── data_collection.py         # pulls raw price/rate data
 ├── data_cleaning.py           # cleans and aligns everything
