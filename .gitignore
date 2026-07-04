@@ -1,0 +1,22 @@
+# Data — regenerate via data_collection.py + data_cleaning.py
+data/raw/
+data/processed/
+
+# Model output — regenerate by running the pipeline
+results/predictions/
+
+# Keep the consolidated summary CSVs, drop the per-asset debug dumps
+results/tables/importance_*.csv
+results/tables/rolling_importance_*.csv
+
+# Editor/IDE junk
+tempCodeRunnerFile.py
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

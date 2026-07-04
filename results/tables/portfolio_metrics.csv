@@ -1,0 +1,4 @@
+Strategy,Ann_Return_%,Ann_Vol_%,Sharpe,Max_Drawdown_%,CVaR_5pct_%,Calmar,N_Days
+Buy-and-Hold,12.55,17.31,0.494,-36.1,-2.69,0.348,3371
+VIX-Managed,9.81,14.15,0.41,-31.22,-2.18,0.314,3371
+CASSI-Managed,10.79,13.93,0.488,-31.16,-2.2,0.346,3371

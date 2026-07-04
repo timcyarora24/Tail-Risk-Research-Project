@@ -1,0 +1,7 @@
+Ann_Return_%,Ann_Vol_%,Sharpe,Max_Drawdown_%,CVaR_5pct_%,Calmar,N_Days,Strategy,Crisis
+-9.66,51.4,-0.266,-36.1,-7.84,-0.268,101,Buy-and-Hold,COVID 2020
+-40.45,40.55,-1.096,-31.22,-7.71,-1.295,101,VIX-Managed,COVID 2020
+-49.43,33.21,-1.609,-31.16,-6.35,-1.586,101,CASSI-Managed,COVID 2020
+-20.65,24.41,-1.01,-26.07,-3.41,-0.792,242,Buy-and-Hold,Rate Hike 2022
+-10.84,17.85,-0.832,-17.9,-2.62,-0.606,242,VIX-Managed,Rate Hike 2022
+-20.93,19.44,-1.282,-23.89,-3.1,-0.876,242,CASSI-Managed,Rate Hike 2022
